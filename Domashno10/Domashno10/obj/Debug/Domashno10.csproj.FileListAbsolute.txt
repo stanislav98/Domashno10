@@ -1,0 +1,10 @@
+E:\materiali\TSP\Domashno10\Domashno10\bin\Debug\Domashno10.exe.config
+E:\materiali\TSP\Domashno10\Domashno10\bin\Debug\Domashno10.exe
+E:\materiali\TSP\Domashno10\Domashno10\bin\Debug\Domashno10.pdb
+E:\materiali\TSP\Domashno10\Domashno10\obj\Debug\Domashno10.csprojAssemblyReference.cache
+E:\materiali\TSP\Domashno10\Domashno10\obj\Debug\Domashno10.Form1.resources
+E:\materiali\TSP\Domashno10\Domashno10\obj\Debug\Domashno10.Properties.Resources.resources
+E:\materiali\TSP\Domashno10\Domashno10\obj\Debug\Domashno10.csproj.GenerateResource.cache
+E:\materiali\TSP\Domashno10\Domashno10\obj\Debug\Domashno10.csproj.CoreCompileInputs.cache
+E:\materiali\TSP\Domashno10\Domashno10\obj\Debug\Domashno10.exe
+E:\materiali\TSP\Domashno10\Domashno10\obj\Debug\Domashno10.pdb
